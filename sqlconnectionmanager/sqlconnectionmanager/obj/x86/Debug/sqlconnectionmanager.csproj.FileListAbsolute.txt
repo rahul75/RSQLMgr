@@ -1,0 +1,11 @@
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\bin\Debug\sqlconnectionmanager.exe
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\obj\x86\Debug\sqlconnectionmanager.Form1.resources
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\obj\x86\Debug\sqlconnectionmanager.home.resources
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\obj\x86\Debug\sqlconnectionmanager.Properties.Resources.resources
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\obj\x86\Debug\sqlconnectionmanager.setserver.resources
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\obj\x86\Debug\sqlconnectionmanager.showallconnection.resources
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\obj\x86\Debug\sqlconnectionmanager.SplashScreen.resources
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\obj\x86\Debug\sqlconnectionmanager.csproj.GenerateResource.Cache
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\obj\x86\Debug\sqlconnectionmanager.exe
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\obj\x86\Debug\sqlconnectionmanager.pdb
+F:\PROJECT_2017\sqlconnectionmanager\sqlconnectionmanager\sqlconnectionmanager\bin\Debug\sqlconnectionmanager.pdb

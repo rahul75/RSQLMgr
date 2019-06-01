@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SQLVERSIONS>
+  <SQLV>
+    <Name>SQL SERVER 2014</Name>
+    <location>C:\Program Files\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\Ssms.exe</location>
+  </SQLV>
+</SQLVERSIONS>
